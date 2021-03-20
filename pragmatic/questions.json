@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Out of the following ways to die, which one would you rather prefer?",
+        "choice1": "Eaten by a shark",
+        "choice2": "Last man standing in a war",
+        "choice3": "Become a zombie",
+        "choice4": "Hit by a comet",
+        "answer": 2
+    },
+    {
+        "question": "If your archenemies begs you for their, would you spare?",
+        "choice1": "No",
+        "choice2": "Yes, but I will keep an eye on them",
+        "choice3": "Yes in public, but kill them later on",
+        "choice4": "Yes, if I can get things of value in return",
+        "answer": 1
+    },
+    {
+        "question": "Do you like super hero movies?",
+        "choice1": "Big fan",
+        "choice2": "Not particularly",
+        "choice3": "Yes, but only realistic ones",
+        "choice4": "I hate superhero movies",
+        "answer": 2
+    },
+    {
+        "question": "If you have to choose between sex and food, what would you choose?",
+        "choice1": "Sex",
+        "choice2": "Food",
+        "choice3": "I am gonna kill myself",
+        "choice4": "I can leave without either",
+        "answer": 2
+    },
+    {
+        "question": "Out of the following things happening in the world, if you can remove one, which is it?",
+        "choice1": "Hunger",
+        "choice2": "War",
+        "choice3": "Illness",
+        "choice4": "Death",
+        "answer": 2
+    },
+    {
+        "question": "Do you prefer SMS or call?",
+        "choice1": "SMS",
+        "choice2": "Call",
+        "choice3": "I don't use either",
+        "choice4": "Depends who I am contacting",
+        "answer": 2
+    },
+    {
+        "question": "Do you think the world is gonna end in 20 years?",
+        "choice1": "Yes",
+        "choice2": "No way",
+        "choice3": "No but I surely hope so",
+        "choice4": "I don't care. I am enjoying my life",
+        "answer": 1
+    },
+    {
+        "question": "If there is a bird walking the ground, what do you think it's going on?",
+        "choice1": "The bird is crazy",
+        "choice2": "It is injuried",
+        "choice3": "It forgets how to fly",
+        "choice4": "It's looking for food",
+        "answer": 2
+    },
+    {
+        "question": "If you can speak animal language, which one would you be interested in learning?",
+        "choice1": "Dog",
+        "choice2": "Cat",
+        "choice3": "Sea animal",
+        "choice4": "Birds",
+        "answer": 2
+    },
+    {
+        "question": "If you have 1 billion dollars tomorrow, what would you do?",
+        "choice1": "Buy some nice cars and houses",
+        "choice2": "Buy some stocks",
+        "choice3": "Give away to other people",
+        "choice4": "Oh no, where the rest of my money?",
+        "answer": 2
+    }
+]

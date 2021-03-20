@@ -1,0 +1,77 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz About You - What's the best career for you? Find out now</title>
+    <meta property="og:title" content="What's the best career for you?" />
+    <meta property="og:type" content="Take 10 short quizzes to find out!" />
+    <meta property="og:url" content="https://www.quizaboutyou.com/bestcareer/game.html" />
+    <meta property="og:image" content="https://www.quizaboutyou.com/bestcareer/cover compressed.jpg" />
+    <link rel="stylesheet" href="../assets/css/game.css"/>
+    <link rel="stylesheet" href="../assets/css/app.css"/>
+</head>
+
+<body class="is-preload homepage">
+    <div id="page-wrapper">
+        <!-- Header -->
+            <div id="header-wrapper">
+                <header id="header" class="container">
+                    <!-- Logo -->
+                        <div id="logo">
+                            <h1><a href="../index.html">Quiz About You</a></h1>
+                            <!-- <span>by HTML5 UP</span> -->
+                        </div>
+                </header>
+            </div>
+    </div>
+    <!-- starting of the quiz -->
+    <div class="container">
+        <div id="loader"></div>
+        <div id="game" class="justify-center flex-column hidden">
+            <div id="hud">
+                <div id="hud-item">
+                    <p id="progressText" class="hud-prefix">
+                        Question
+                    </p>
+                    <div id="progressBar">
+                        <div id="progressBarFull"></div>
+                    </div>
+                </div>
+                <div id="hud-item">
+                    <p class="hud-prefix">
+                    </p>
+                    <h1 class="hud-main-text" id="score">
+                    </h1>
+                </div>
+            </div>
+            <h2 id=question>What is the answer to this que stion?</h2>
+            <div class="choice-container">
+                <p class="choice-prefix">A</p>
+                <p class="choice-text" data-number="1">Choice 1</p>
+            </div>
+            <div class="choice-container">     
+                <p class="choice-prefix">B</p>
+                <p class="choice-text" data-number="2">Choice 1</p>
+            </div>
+            <div class="choice-container">
+                <p class="choice-prefix">C</p>
+                <p class="choice-text" data-number="3">Choice 1</p>
+            </div>
+            <div class="choice-container">
+                <p class="choice-prefix">D</p>
+                <p class="choice-text" data-number="4">Choice 1</p>
+            </div>
+        </div>
+    </div>
+    <script src="game.js"></script>
+</body>
+
+</html>
+
+
+
+
+
+
+    

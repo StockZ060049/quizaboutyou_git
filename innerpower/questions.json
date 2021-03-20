@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Of all the animals below, which one do you like the best?",
+        "choice1": "Lion",
+        "choice2": "Eagle",
+        "choice3": "Shark",
+        "choice4": "Snake",
+        "answer": 2
+    },
+    {
+        "question": "If someone begs you for money on the street, would you spare?",
+        "choice1": "Often",
+        "choice2": "Sometimes",
+        "choice3": "Depends",
+        "choice4": "I Don't",
+        "answer": 1
+    },
+    {
+        "question": "Of all the superpowers below, which one do you want the most",
+        "choice1": "Mind control",
+        "choice2": "Flying",
+        "choice3": "Seeing the future",
+        "choice4": "Super strength",
+        "answer": 2
+    },
+    {
+        "question": "Of the following places, where do you prefer to go for your vacation?",
+        "choice1": "Beach",
+        "choice2": "Snow mountain",
+        "choice3": "Forrest",
+        "choice4": "Cities",
+        "answer": 2
+    },
+    {
+        "question": "If you become a super villain, what would do first?",
+        "choice1": "Destroy people I hate",
+        "choice2": "Use my power to get rich",
+        "choice3": "Randomly attack cities",
+        "choice4": "Find out who are super heroes so I am prepared",
+        "answer": 2
+    }
+]

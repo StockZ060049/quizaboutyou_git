@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Can you forgive your partner from telling you a well-meaning lie?",
+        "choice1": "Yes",
+        "choice2": "No",
+        "choice3": "Depends on what's the intention",
+        "choice4": "I don't care",
+        "answer": 2
+    },
+    {
+        "question": "Are you okay with your partner being obsessed with games or shows?",
+        "choice1": "I'm fine",
+        "choice2": "No, I can't let that waste our time",
+        "choice3": "It's ok as long as my partner doesn't do anything crazy",
+        "choice4": "I will be obsessed as well",
+        "answer": 1
+    },
+    {
+        "question": "If you break up with your ex, can you still be friends?",
+        "choice1": "Yes, of course",
+        "choice2": "No, that's awkward",
+        "choice3": "Yes, only if we didn't date very long",
+        "choice4": "Yes, only if we didn't have sex",
+        "answer": 2
+    },
+    {
+        "question": "Would you ask your partner about ex?",
+        "choice1": "No, I am not a child",
+        "choice2": "Yes, I am just curious",
+        "choice3": "No, but I am a little curious though",
+        "choice4": "Yes, we talk about that all the time",
+        "answer": 2
+    },
+    {
+        "question": "Do you care what your partners' friends say about you?",
+        "choice1": "I don't care, whatever",
+        "choice2": "Yes, I want them to like me as well",
+        "choice3": "Yes, I want my partner to be comfortable around their friends",
+        "choice4": "Not really, but I will try not to be an asshole",
+        "answer": 2
+    },
+    {
+        "question": "Has it ever occur to you your partner may like another person but also you?",
+        "choice1": "Yes, but I don't care",
+        "choice2": "Yes, it's human nature. I don't mind",
+        "choice3": "No, it never occur to me",
+        "choice4": "No, I am that good",
+        "answer": 2
+    },
+    {
+        "question": "Do you believe in true love",
+        "choice1": "Yes, if you look hard enough",
+        "choice2": "No, true love is only for movies",
+        "choice3": "Yes, but it's just luck",
+        "choice4": "It never is in the beginning but time will make it so",
+        "answer": 1
+    },
+    {
+        "question": "Would you care at all your partner's age?",
+        "choice1": "Nope, it's not applicable for me",
+        "choice2": "Yes, but only for a few seconds",
+        "choice3": "Yes, i do but i have no choice",
+        "choice4": "Nope, this is a stupid question",
+        "answer": 2
+    },
+    {
+        "question": "Do you know most of your partners' friends?",
+        "choice1": "Yes, like 80% plus",
+        "choice2": "Yes, maybe 50%",
+        "choice3": "Some, like 20%",
+        "choice4": "Nope, I don't know any",
+        "answer": 2
+    },
+    {
+        "question": "If your partner text other people for a long time, do you get mad?",
+        "choice1": "Yes, I would ask what's happening",
+        "choice2": "Nope, I know who he/she is talking to",
+        "choice3": "Nope, not applicable for me",
+        "choice4": "Yes, but only because he/she ignores me nothing else",
+        "answer": 2
+    }
+]

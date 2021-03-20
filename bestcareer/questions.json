@@ -1,0 +1,50 @@
+[
+    {
+        "question": "You are at a party with friends, what would you want the most?",
+        "choice1": "Find someone fun to talk to, doesn't need to be someone I know",
+        "choice2": "Talk to people I know",
+        "choice3": "Know new people",
+        "choice4": "Just get over it and go home",
+        "answer": 2
+    },
+    {
+        "question": "If you need to organize a huge party, what do you care the most?",
+        "choice1": "Envrionment, especially the theme",
+        "choice2": "Food, food and food",
+        "choice3": "Get someonething special, like a band or an interesting party game",
+        "choice4": "I need to make sure people come",
+        "answer": 2
+    },
+    {
+        "question": "If one of your co-workers is gonna leave, what are you thinking immediate after hearing the news?",
+        "choice1": "Organize a party!",
+        "choice2": "Think about how to do hand over",
+        "choice3": "Find them a super cool gift",
+        "choice4": "Ask them where they are going, think about my own path",
+        "answer": 2
+    },
+    {
+        "question": "If you visit an new restaurants, what would you order?",
+        "choice1": "Whatever the waitor recommend",
+        "choice2": "Do plenty of research ahead or search Google",
+        "choice3": "Something unique, even if it's risky",
+        "choice4": "Something common, I know they can't screw that up",
+        "answer": 2
+    },
+    {
+        "question": "When you do groccery, what's your plan?",
+        "choice1": "I don't do groccery",
+        "choice2": "Clear groccery list, get in and get out quickly",
+        "choice3": "Clear must-buys first, then leave some time to browse",
+        "choice4": "Go through all asiles, see what's new and interesing",
+        "answer": 1
+    },
+    {
+        "question": "You are about to enter into a new relationship, what would you expect most?",
+        "choice1": "Meet family and friends",
+        "choice2": "Planning for the future",
+        "choice3": "Go explore the world together",
+        "choice4": "Just normal stuff, watch movies, go shopping",
+        "answer": 2
+    }
+]
