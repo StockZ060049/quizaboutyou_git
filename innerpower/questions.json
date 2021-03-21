@@ -1,42 +1,50 @@
 [
     {
-        "question": "Of all the animals below, which one do you like the best?",
-        "choice1": "Lion",
-        "choice2": "Eagle",
-        "choice3": "Shark",
-        "choice4": "Snake",
+        "question": "Of all the superpowers below, which one do you want the most",
+        "choice1": "Super strength",
+        "choice2": "Flying",
+        "choice3": "Seeing the future",
+        "choice4": "Mind control",
         "answer": 2
     },
     {
         "question": "If someone begs you for money on the street, would you spare?",
-        "choice1": "Often",
-        "choice2": "Sometimes",
-        "choice3": "Depends",
-        "choice4": "I Don't",
+        "choice1": "I would never do that",
+        "choice2": "Depends on whether that person is really in trouble",
+        "choice3": "If the way that person asks for money is interesting then I will",
+        "choice4": "None of above",
         "answer": 1
     },
     {
-        "question": "Of all the superpowers below, which one do you want the most",
-        "choice1": "Mind control",
-        "choice2": "Flying",
-        "choice3": "Seeing the future",
-        "choice4": "Super strength",
-        "answer": 2
-    },
-    {
         "question": "Of the following places, where do you prefer to go for your vacation?",
-        "choice1": "Beach",
-        "choice2": "Snow mountain",
-        "choice3": "Forrest",
+        "choice1": "Moutains",
+        "choice2": "Snow in winter, beach in summer",
+        "choice3": "Somewher unique, like safari or Chernobyl",
         "choice4": "Cities",
         "answer": 2
     },
     {
-        "question": "If you become a super villain, what would do first?",
-        "choice1": "Destroy people I hate",
-        "choice2": "Use my power to get rich",
-        "choice3": "Randomly attack cities",
-        "choice4": "Find out who are super heroes so I am prepared",
+        "question": "If you suddenly becomes indestructible, what would do first?",
+        "choice1": "Destroy bad guys on the street",
+        "choice2": "Try to understand my power. Don't do anything unusual",
+        "choice3": "Join the army and fight for the justice",
+        "choice4": "Use my power to get rich and respectful",
+        "answer": 2
+    },
+    {
+        "question": "Of the following wild animal, which one do you want as a pet?",
+        "choice1": "Eagle",
+        "choice2": "Lion",
+        "choice3": "Seal",
+        "choice4": "Snake",
+        "answer": 2
+    },
+    {
+        "question": "If you can make any movie you want, what genres would you go for?",
+        "choice1": "Super hero movies",
+        "choice2": "Crime movies",
+        "choice3": "Horrow movies",
+        "choice4": "Romantic comedy",
         "answer": 2
     }
 ]

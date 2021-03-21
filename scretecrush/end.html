@@ -1,14 +1,28 @@
 <html lang="en">
 <head>
+    <meta property="og:url" content="https://www.quizaboutyou.com/secretecrush/end.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>End of Quiz</title>
     <link rel="stylesheet" href="../assets/css/app.css" />
     <link rel="stylesheet" href="../assets/css/game.css" />
 </head>
 
 <body class="is-preload homepage">
+    <!-- facebook javascript -->
+    <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            appId            : '886099825292098',
+            autoLogAppEvents : true,
+            xfbml            : true,
+            version          : 'v10.0'
+          });
+        };
+      </script>
+      <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
+
     <div id="page-wrapper">
         <!-- Header -->
             <div id="header-wrapper">
@@ -24,7 +38,8 @@
 
     <div id="features-wrapper">
         <div class="container">
-            <div class="flex-center flex-column"></div>
+            <div id="loader"></div>
+            <div id="resultPage" class="flex-center flex-column hidden"></div>
             <div class="row">
                 <!-- Is your partner loosing interest in you? -->
                 <div class="col-4 col-12-medium">
@@ -32,11 +47,11 @@
                         <a href="#" class="image featured"><img src="p1.jpg" id="image" alt=""/></a>
                         <div class="inner">
                             <header>
-                                <h1 id="result">Is your partner losing interest in you?</h2>
-                                <h2 id="result description">Find out top signs your relationship is in danger </p>
+                                <h1 id="result"></h2>
+                                <h2 id="result description"></p>
                             </header>
-                            <!-- <a href="innerpower/game.html" class="button large icon solid fa-arrow-circle-right">Take this again</a> -->
-                            <a href="../index.html" class="button large icon solid fa-arrow-circle-right">More Quizzes Here</a>
+                            <input type="button" onclick="postToFeed()" value="Share"/>
+                            <a href="../index.html"><h2><u>Click here for more fun quizzes</u></h2></a>
                         </div>
                     </section>
                 </div>
@@ -47,5 +62,3 @@
 <script src="score.js"></script>
 </body>
 </html>
-
-

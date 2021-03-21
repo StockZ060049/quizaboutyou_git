@@ -1,27 +1,11 @@
 [
     {
-        "question": "Do you keep a copy of your high school yearbook?",
-        "choice1": "Yes, I know where it is",
-        "choice2": "No, it's forever gone",
-        "choice3": "Yes, but I need some time to find it",
-        "choice4": "Yes, but it's damaged",
-        "answer": 2
-    },
-    {
         "question": "How often do you talk to your secret crush?",
-        "choice1": "Often",
-        "choice2": "Sometimes",
-        "choice3": "Rarely",
-        "choice4": "I Don't",
+        "choice1": "All the time",
+        "choice2": "Sometimes, but not on a personal level",
+        "choice3": "On occasions, like working on projects",
+        "choice4": "Rarely if not at all",
         "answer": 1
-    },
-    {
-        "question": "Are you interested in learning about stock market?",
-        "choice1": "No",
-        "choice2": "Yes, very interested",
-        "choice3": "I don't care but it's good to learn",
-        "choice4": "I am interested and am learning right now",
-        "answer": 2
     },
     {
         "question": "If you see a grass field in a sunny day, what do you want to do?",
@@ -33,33 +17,26 @@
     },
     {
         "question": "How often do you mention your secret crush to other people?",
-        "choice1": "I don't",
-        "choice2": "Sometime, not often",
-        "choice3": "Not paying attention but probably I did",
-        "choice4": "Trying to avoid mentioning that person",
-        "answer": 2
-    },{
-        "question": "During winter, which part of your body do you put most layers on?",
-        "choice1": "Leg",
-        "choice2": "Upperbody",
-        "choice3": "Face",
-        "choice4": "Feet",
+        "choice1": "I want to but I purposely try to control it",
+        "choice2": "All the time",
+        "choice3": "Not paying attention but probably I did sometimes",
+        "choice4": "I don't",
         "answer": 2
     },
     {
         "question": "When your secret crush text you, what's it about?",
         "choice1": "Nothing, just random stuff in life",
-        "choice2": "Work or study",
-        "choice3": "Gossip",
+        "choice2": "Gossip",
+        "choice3": "Work or study, under professional setting only",
         "choice4": "Some shared interest, music, movie & etc",
         "answer": 1
     },
     {
-        "question": "Is your secret crush talking to you about other people?",
-        "choice1": "Yes, very often",
-        "choice2": "Not at all",
-        "choice3": "Rare",
-        "choice4": "Can't remember",
+        "question": "Does your secret crush mention you to other people?",
+        "choice1": "As far as I know, all the time",
+        "choice2": "Yes, I heard him/her does that sometimes",
+        "choice3": "I've no idea",
+        "choice4": "Maybe but I don't care",
         "answer": 2
     },
     {
@@ -69,14 +46,5 @@
         "choice3": "I can't tell",
         "choice4": "Nope",
         "answer": 2
-    },
-    {
-        "question": "Do you eat junk food?",
-        "choice1": "Yes, all the time",
-        "choice2": "Only when I feel stressed",
-        "choice3": "Depends, not often",
-        "choice4": "I don't eat that garbage",
-        "answer": 2
-    }
-    
+    }   
 ]
